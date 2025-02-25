@@ -1,2 +1,2 @@
-# API
-all bout Biits API
+# Authenticator
+rda authnticator
